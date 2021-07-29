@@ -1,0 +1,25 @@
+{
+  "name": "skillbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xxdioxx/skillbox.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xxdioxx/skillbox/issues"
+  },
+  "homepage": "https://github.com/xxdioxx/skillbox#readme",
+  "devDependencies": {
+    "ts-loader": "^9.2.4",
+    "typescript": "^4.3.5",
+    "webpack": "^5.47.1",
+    "webpack-cli": "^4.7.2"
+  }
+}
